@@ -18,21 +18,21 @@ http://www.fish2018.us.kg/p/jsm.json
 
 ## PG包下载地址
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20241209-1702.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20241209-1702.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20241209-1702.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1702.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20241209-1918.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20241209-1918.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20241209-1918.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241209-1918.zip
 ```
 
 ## pg包今日更新内容
@@ -47,6 +47,8 @@ PG包[README.txt](http://www.fish2018.us.kg/p/README.txt)
 
 今日更新内容：(更多内容阅读zip内的README.txt)
 1.尝试兼容115新的KID cookie item。需要网盘设置》其他设置》重新载入GO代理》点击aliproxy
+2.大幅优化嗅探引擎，提高所有嗅探源的效率（包括影巢）
+3.修复影巢搜索结果处理bug。
 ```
 
 ## tgsearch包下载地址
